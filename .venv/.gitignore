@@ -1,6 +1,2 @@
-myvenv/
-__pycache__/
-*.pyc
-db.sqlite3
-.env
-
+# Created by venv; see https://docs.python.org/3/library/venv.html
+*
